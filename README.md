@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Custom Music Generation with Transformers and PyTorch
 
 Welcome to the custom music generation project using Transformers and PyTorch! This project provides an alternative approach to music generation, leveraging the power of state-of-the-art pre-trained Transformers models and PyTorch for natural language processing tasks. This project is based on an existing music generation project developed by [AI Anytime]. I have modified and extended the project to enhance its functionality and performance, making it more accessible and adaptable for various music generation tasks.
@@ -12,3 +13,6 @@ To use this music generation solution, follow these steps:
 # Conclusion
 
 While OpenAI's API offers a convenient solution for text and music generation tasks, my custom music generation solution using Transformers and PyTorch provides a cost-effective, flexible, and transparent alternative. By eliminating subscription fees and offering greater control and privacy, my solution empowers users to create music tailored to their specific needs and preferences.
+=======
+# Music-generation-with--AI
+>>>>>>> 642ebbab426a4447b662206ec17560b00fc90165
